@@ -17,38 +17,33 @@
 
 <h2 align="center">✦ About me ✦</h2>
 
+<div align="center">
+
 <br/>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+I design and build modern **web** and **mobile** applications focused on performance, scalability and user experience:<br/>
+full-stack platforms, collaborative systems, multiplayer experiences and developer tools.
 
-#### 💻 &nbsp;Full Stack
-I build web applications end to end, from interfaces in **Angular**, **React** and **TypeScript** to backends in **Node.js**, **Python** and **Django**.
+<br/>
 
-</td>
-<td width="50%" valign="top">
+I started programming about 3 years ago with Java while studying a Multi-Platform Application Development degree.<br/>
+Since then I keep learning on my own and today I focus on scalable web platforms, multiplayer systems and developer tools.
 
-#### 🎮 &nbsp;Game Dev
-I build game prototypes in **Unity** and **C#**, focusing on fluid movement, game feel and multiplayer networking.
+<br/><br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/3%2B-Years_coding-1a1b27?style=for-the-badge&labelColor=24283b&color=7aa2f7" />
+<img src="https://img.shields.io/badge/8-Released_projects-1a1b27?style=for-the-badge&labelColor=24283b&color=7aa2f7" />
+<img src="https://img.shields.io/badge/2-Company_internships-1a1b27?style=for-the-badge&labelColor=24283b&color=7aa2f7" />
+<img src="https://img.shields.io/badge/DAM-Higher_Degree-1a1b27?style=for-the-badge&labelColor=24283b&color=7aa2f7" />
 
-#### ⚡ &nbsp;Live apps
-What I enjoy most: **WebSockets**, **WebRTC** and client–server sync that makes apps feel alive.
+<br/><br/>
 
-</td>
-<td width="50%" valign="top">
+💻 &nbsp;**Full Stack** &nbsp;·&nbsp; Angular, React and TypeScript on the front, Node.js, Python and Django on the back<br/>
+🎮 &nbsp;**Game prototypes** &nbsp;·&nbsp; Unity and C#, with fluid movement, game feel and multiplayer networking<br/>
+⚡ &nbsp;**Live apps** &nbsp;·&nbsp; WebSockets, WebRTC and client–server sync that makes apps feel alive<br/>
+🌱 &nbsp;**Right now** &nbsp;·&nbsp; Running **Chatterly Renewed**, my encrypted chat, and building **Kairos**
 
-#### 🌱 &nbsp;Right now
-Running **Chatterly Renewed**, my encrypted chat with calls and tournaments, and building **Kairos**. **DevStarter** is already live on the VS Code Marketplace.
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/><br/>
 
@@ -56,59 +51,46 @@ Running **Chatterly Renewed**, my encrypted chat with calls and tournaments, and
 
 <h2 align="center">✦ Tech Stack ✦</h2>
 
+<div align="center">
+
 <br/>
 
-<table align="center">
-<tr>
-<td align="center" width="50%" valign="top">
-<br/>
-<h3>🎨 Frontend</h3>
-<sub><i>Interfaces fast, responsive and accessible</i></sub>
+<img src="https://img.shields.io/badge/FRONTEND_&_MOBILE-24283b?style=flat-square" /><br/>
+<img src="https://skillicons.dev/icons?i=angular,astro,react,ts,js,html,css,tailwind,vite,electron,flutter,dart,kotlin,androidstudio&theme=dark&perline=14" />
+
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=angular,react,astro,ts,js,html,css,tailwind,vite,bootstrap&theme=dark&perline=5" />
+
+<img src="https://img.shields.io/badge/BACKEND-24283b?style=flat-square" /><br/>
+<img src="https://skillicons.dev/icons?i=django,python,nodejs,fastify,php,java,supabase&theme=dark&perline=14" />
+
 <br/><br/>
-</td>
-<td align="center" width="50%" valign="top">
-<br/>
-<h3>⚙️ Backend & Data</h3>
-<sub><i>APIs, auth and well-designed databases</i></sub>
+
+<img src="https://img.shields.io/badge/DATABASES-24283b?style=flat-square" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark&perline=14" />
+
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,express,fastify,php,supabase,postgres,mysql,sqlite&theme=dark&perline=5" />
+
+<img src="https://img.shields.io/badge/GAME_DEVELOPMENT-24283b?style=flat-square" /><br/>
+<img src="https://skillicons.dev/icons?i=unity,godot,cs&theme=dark&perline=14" />
+
 <br/><br/>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top">
-<br/>
-<h3>🎮 Game Dev & Mobile</h3>
-<sub><i>Gameplay systems, multiplayer and native apps</i></sub>
+
+<img src="https://img.shields.io/badge/DEVOPS_&_TOOLS-24283b?style=flat-square" /><br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vercel,pnpm,vscode&theme=dark&perline=14" />
+
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=unity,cs,java,kotlin,androidstudio,flutter,dart,electron&theme=dark&perline=4" />
-<br/><br/>
-</td>
-<td align="center" width="50%" valign="top">
-<br/>
-<h3>🧰 DevOps & Tools</h3>
-<sub><i>Shipping, testing and automating</i></sub>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vercel,cloudflare,pnpm,vscode&theme=dark&perline=5" />
-<br/><br/>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-<br/>
-<h3>⚡ Networking & Sync</h3>
-<sub><i>My favorite part: making apps and games feel alive</i></sub>
-<br/><br/>
+
+<img src="https://img.shields.io/badge/NETWORKING_&_SYNC-24283b?style=flat-square" /><br/>
 <img src="https://img.shields.io/badge/WebSockets-1a1b27?style=for-the-badge&logo=socketdotio&logoColor=7aa2f7" />
 <img src="https://img.shields.io/badge/WebRTC-1a1b27?style=for-the-badge&logo=webrtc&logoColor=7aa2f7" />
 <img src="https://img.shields.io/badge/Netcode_for_GameObjects-1a1b27?style=for-the-badge&logo=unity&logoColor=7aa2f7" />
 <img src="https://img.shields.io/badge/Client--Server_Sync-1a1b27?style=for-the-badge&logo=cloudflare&logoColor=7aa2f7" />
+
 <br/><br/>
-</td>
-</tr>
-</table>
+
+<sub>🗣️ &nbsp;Spanish · Native &nbsp;&nbsp;|&nbsp;&nbsp; English · A2</sub>
+
+</div>
 
 <br/><br/>
 
