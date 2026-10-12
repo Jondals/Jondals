@@ -7,6 +7,7 @@
 <a href="https://jonathan-dorado-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/jonathandoradoquintero/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:jondals@proton.me"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+<a href="https://jonathan-dorado-portfolio.vercel.app/cv.pdf"><img src="https://img.shields.io/badge/Download_CV-00D4FF?style=for-the-badge&logo=readme&logoColor=black" /></a>
 
 </div>
 
@@ -23,13 +24,13 @@
 <td width="50%" valign="top">
 
 #### 💻 &nbsp;Full Stack
-I build web applications end to end, from interfaces in **Angular** and **TypeScript** to backends in **Python** and **Node.js**.
+I build web applications end to end, from interfaces in **Angular**, **React** and **TypeScript** to backends in **Node.js**, **Python** and **Django**.
 
 </td>
 <td width="50%" valign="top">
 
 #### 🎮 &nbsp;Game Dev
-I prototype games in **Unity** and **C#**, focusing on fluid movement, game feel and multiplayer networking.
+I build games in **Unity** and **C#**, focusing on fluid movement, game feel and multiplayer networking.
 
 </td>
 </tr>
@@ -43,7 +44,7 @@ What I enjoy most: **WebSockets**, **WebRTC** and client–server sync that make
 <td width="50%" valign="top">
 
 #### 🌱 &nbsp;Right now
-Working on **DevStarter**, a VS Code extension, and **Chatterly Renewed**, a full Angular rewrite.
+Building **Chatterly Renewed**, a full Angular rewrite with calls and tournaments, and **Kairos**. **DevStarter** is already live on the VS Code Marketplace.
 
 </td>
 </tr>
@@ -72,7 +73,7 @@ Working on **DevStarter**, a VS Code extension, and **Chatterly Renewed**, a ful
 <h3>⚙️ Backend & Data</h3>
 <sub><i>APIs, auth and well-designed databases</i></sub>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,php,supabase,postgres,mysql,sqlite&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,express,fastify,php,supabase,postgres,mysql,sqlite&theme=dark&perline=5" />
 <br/><br/>
 </td>
 </tr>
@@ -82,7 +83,7 @@ Working on **DevStarter**, a VS Code extension, and **Chatterly Renewed**, a ful
 <h3>🎮 Game Dev & Mobile</h3>
 <sub><i>Gameplay systems, multiplayer and native apps</i></sub>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=unity,cs,java,kotlin,androidstudio,flutter,dart&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=unity,cs,java,kotlin,androidstudio,flutter,dart,electron&theme=dark&perline=4" />
 <br/><br/>
 </td>
 <td align="center" width="50%" valign="top">
@@ -90,7 +91,7 @@ Working on **DevStarter**, a VS Code extension, and **Chatterly Renewed**, a ful
 <h3>🧰 DevOps & Tools</h3>
 <sub><i>Shipping, testing and automating</i></sub>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vercel,pnpm,jest,vscode&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vercel,cloudflare,pnpm,vscode&theme=dark&perline=5" />
 <br/><br/>
 </td>
 </tr>
@@ -121,16 +122,16 @@ Working on **DevStarter**, a VS Code extension, and **Chatterly Renewed**, a ful
 <tr>
 <td width="50%" valign="top">
 
-### 💬 &nbsp;[Chatterly](https://github.com/Jondals/Chatterly)
-Discord-inspired social platform with friends, custom profiles, real-time chat and **WebRTC voice calls**.
+### 💬 &nbsp;[Chatterly Renewed](https://github.com/Jondals/ChatterlyRenewed) &nbsp;<sub>[`LIVE ↗`](https://chatterlyrenewed.duckdns.org)</sub>
+Full Angular rewrite of my chat platform: real-time messaging, **WebRTC calls**, tournaments and desktop apps with Electron.
 
-<img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=f7df1e" /> <img src="https://img.shields.io/badge/PHP-1a1b27?style=flat-square&logo=php&logoColor=777bb4" /> <img src="https://img.shields.io/badge/MySQL-1a1b27?style=flat-square&logo=mysql&logoColor=4479a1" /> <img src="https://img.shields.io/badge/WebRTC-1a1b27?style=flat-square&logo=webrtc&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-1a1b27?style=flat-square&logo=angular&logoColor=dd0031" /> <img src="https://img.shields.io/badge/Fastify-1a1b27?style=flat-square&logo=fastify&logoColor=white" /> <img src="https://img.shields.io/badge/WebRTC-1a1b27?style=flat-square&logo=webrtc&logoColor=white" /> <img src="https://img.shields.io/badge/Electron-1a1b27?style=flat-square&logo=electron&logoColor=47848f" /> <img src="https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker&logoColor=2496ed" />
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎡 &nbsp;[Spinly](https://github.com/Jondals/Spinly) &nbsp;<sub>[`LIVE ↗`](https://spinly-psi.vercel.app)</sub>
-Customizable prize wheel for raffles and decisions, with synthesized sound, cloud sync, a community hub and **Lighthouse 100**.
+Customizable prize wheel for raffles and decisions, with synthesized sound, cloud sync, knockout tournaments and **Lighthouse 100**.
 
 <img src="https://img.shields.io/badge/React_19-1a1b27?style=flat-square&logo=react&logoColor=61dafb" /> <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=3178c6" /> <img src="https://img.shields.io/badge/Supabase-1a1b27?style=flat-square&logo=supabase&logoColor=3ecf8e" /> <img src="https://img.shields.io/badge/Web_Audio-1a1b27?style=flat-square&logo=audiomack&logoColor=ffa200" />
 
@@ -139,36 +140,36 @@ Customizable prize wheel for raffles and decisions, with synthesized sound, clou
 <tr>
 <td width="50%" valign="top">
 
-### 👻 &nbsp;[NextbotScape Beans](https://github.com/Jondals/NextBotEscapeBeans)
-Co-op **multiplayer** Backrooms-style horror game with lobby join codes, synced players and AI pathfinding.
+### 🎯 &nbsp;[QuizMania](https://github.com/Jondals/QuizMania) &nbsp;<sub>[`LIVE ↗`](https://quiz-mania-blond.vercel.app/)</sub>
+Trivia game played on a slot machine: spin for a topic, pick a mode, challenge friends and climb the rankings.
 
-<img src="https://img.shields.io/badge/Unity-1a1b27?style=flat-square&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-1a1b27?style=flat-square&logo=dotnet&logoColor=a179dc" /> <img src="https://img.shields.io/badge/Netcode-1a1b27?style=flat-square&logo=unity&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=3178c6" /> <img src="https://img.shields.io/badge/Supabase-1a1b27?style=flat-square&logo=supabase&logoColor=3ecf8e" /> <img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=flat-square&logo=postgresql&logoColor=4169e1" />
 
 </td>
 <td width="50%" valign="top">
 
-### 🏃 &nbsp;[Parkour Beans](https://github.com/Jondals/Parkour-Bean)
-First-person parkour prototype with **wall-running**, sliding, air control and a grappling hook.
+### 🎞️ &nbsp;[MyConversor](https://github.com/Jondals/MyConversor) &nbsp;<sub>[`LIVE ↗`](https://myconversor.duckdns.org)</sub>
+Single-page tool to download, trim and convert video and audio, with a library, accounts and a built-in music player.
 
-<img src="https://img.shields.io/badge/Unity-1a1b27?style=flat-square&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-1a1b27?style=flat-square&logo=dotnet&logoColor=a179dc" />
+<img src="https://img.shields.io/badge/Angular-1a1b27?style=flat-square&logo=angular&logoColor=dd0031" /> <img src="https://img.shields.io/badge/Node.js-1a1b27?style=flat-square&logo=nodedotjs&logoColor=5fa04e" /> <img src="https://img.shields.io/badge/FFmpeg-1a1b27?style=flat-square&logo=ffmpeg&logoColor=007808" /> <img src="https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker&logoColor=2496ed" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 &nbsp;[DevStarter](https://github.com/Jondals/DevStarter) &nbsp;<sub>`WIP`</sub>
-VS Code extension to scaffold popular frameworks and project templates in seconds.
+### 🧩 &nbsp;[DevStarter](https://github.com/Jondals/DevStarter) &nbsp;<sub>`PUBLISHED`</sub>
+VS Code extension to scaffold popular frameworks and project templates in seconds. Available on the VS Code Marketplace and Open VSX.
 
 <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=3178c6" /> <img src="https://img.shields.io/badge/VS_Code_API-1a1b27?style=flat-square&logo=visualstudiocode&logoColor=007acc" />
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 &nbsp;[QuizMania](https://github.com/Jondals/QuizMania) &nbsp;<sub>[`LIVE ↗`](https://quiz-mania-plum.vercel.app/)</sub>
-Trivia game where a spinning wheel picks the category and questions load dynamically.
+### 👻 &nbsp;[NextbotScape Beans](https://github.com/Jondals/NextBotEscapeBeans)
+Co-op **multiplayer** Backrooms-style horror game with lobby join codes, synced players and AI pathfinding.
 
-<img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=f7df1e" /> <img src="https://img.shields.io/badge/Bootstrap-1a1b27?style=flat-square&logo=bootstrap&logoColor=7952b3" />
+<img src="https://img.shields.io/badge/Unity-1a1b27?style=flat-square&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-1a1b27?style=flat-square&logo=dotnet&logoColor=a179dc" /> <img src="https://img.shields.io/badge/Netcode-1a1b27?style=flat-square&logo=unity&logoColor=7aa2f7" />
 
 </td>
 </tr>
@@ -179,9 +180,10 @@ Trivia game where a spinning wheel picks the category and questions load dynamic
 <p align="center">
   <sub>
     More on my profile &nbsp;·&nbsp;
+    <a href="https://github.com/Jondals/Parkour-Bean">Parkour Beans</a> &nbsp;·&nbsp;
+    <a href="https://github.com/Jondals/Kairos">Kairos</a> &nbsp;·&nbsp;
     <a href="https://github.com/Jondals/MyMusic">MyMusic</a> &nbsp;·&nbsp;
-    <a href="https://github.com/Jondals/ChatterlyRenewed">Chatterly Renewed</a> &nbsp;·&nbsp;
-    <a href="https://github.com/Jondals/MyConversor">MyConversor</a> &nbsp;·&nbsp;
+    <a href="https://github.com/Jondals/Chatterly">Chatterly</a> &nbsp;·&nbsp;
     <a href="https://github.com/Jondals/FlavorBalance">FlavorBalance</a> &nbsp;·&nbsp;
     <a href="https://github.com/Jondals/DamasDondeSea">Damas Donde Sea</a>
   </sub>
