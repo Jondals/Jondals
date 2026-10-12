@@ -51,46 +51,63 @@ Since then I keep learning on my own and today I focus on scalable web platforms
 
 <h2 align="center">✦ Tech Stack ✦</h2>
 
-<div align="center">
-
 <br/>
 
-<img src="https://img.shields.io/badge/FRONTEND_&_MOBILE-24283b?style=flat-square" /><br/>
-<img src="https://skillicons.dev/icons?i=angular,astro,react,ts,js,html,css,tailwind,vite,electron,flutter,dart,kotlin,androidstudio&theme=dark&perline=14" />
-
+<table align="center">
+<tr>
+<td align="center" width="50%" valign="top">
+<br/>
+<h3>🎨 Frontend & Mobile</h3>
+<sub><i>Fast, responsive and accessible interfaces</i></sub>
 <br/><br/>
-
-<img src="https://img.shields.io/badge/BACKEND-24283b?style=flat-square" /><br/>
-<img src="https://skillicons.dev/icons?i=django,python,nodejs,fastify,php,java,supabase&theme=dark&perline=14" />
-
+<img src="https://skillicons.dev/icons?i=angular,astro,react,ts,js,html,css,tailwind,vite,electron,flutter,dart,kotlin,androidstudio&theme=dark&perline=5" />
 <br/><br/>
-
-<img src="https://img.shields.io/badge/DATABASES-24283b?style=flat-square" /><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark&perline=14" />
-
+</td>
+<td align="center" width="50%" valign="top">
+<br/>
+<h3>⚙️ Backend & Data</h3>
+<sub><i>APIs, auth and well-designed databases</i></sub>
 <br/><br/>
-
-<img src="https://img.shields.io/badge/GAME_DEVELOPMENT-24283b?style=flat-square" /><br/>
-<img src="https://skillicons.dev/icons?i=unity,godot,cs&theme=dark&perline=14" />
-
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,express,php,java,supabase,postgres,mysql,mongodb,sqlite&theme=dark&perline=4" />
 <br/><br/>
-
-<img src="https://img.shields.io/badge/DEVOPS_&_TOOLS-24283b?style=flat-square" /><br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vercel,pnpm,vscode&theme=dark&perline=14" />
-
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+<br/>
+<h3>🎮 Game Development</h3>
+<sub><i>Gameplay systems and multiplayer prototypes</i></sub>
 <br/><br/>
-
-<img src="https://img.shields.io/badge/NETWORKING_&_SYNC-24283b?style=flat-square" /><br/>
+<img src="https://skillicons.dev/icons?i=unity,godot,cs&theme=dark&perline=3" />
+<br/><br/>
+</td>
+<td align="center" width="50%" valign="top">
+<br/>
+<h3>⚡ Networking & Sync</h3>
+<sub><i>My favorite part: making apps and games feel alive</i></sub>
+<br/><br/>
 <img src="https://img.shields.io/badge/WebSockets-1a1b27?style=for-the-badge&logo=socketdotio&logoColor=7aa2f7" />
 <img src="https://img.shields.io/badge/WebRTC-1a1b27?style=for-the-badge&logo=webrtc&logoColor=7aa2f7" />
+<br/>
 <img src="https://img.shields.io/badge/Netcode_for_GameObjects-1a1b27?style=for-the-badge&logo=unity&logoColor=7aa2f7" />
+<br/>
 <img src="https://img.shields.io/badge/Client--Server_Sync-1a1b27?style=for-the-badge&logo=cloudflare&logoColor=7aa2f7" />
-
 <br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<br/>
+<h3>🧰 DevOps & Tools</h3>
+<sub><i>Shipping, testing and automating</i></sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vercel,pnpm,vscode&theme=dark&perline=8" />
+<br/><br/>
+</td>
+</tr>
+</table>
 
-<sub>🗣️ &nbsp;Spanish · Native &nbsp;&nbsp;|&nbsp;&nbsp; English · A2</sub>
-
-</div>
+<p align="center"><sub>🗣️ &nbsp;Spanish · Native &nbsp;&nbsp;·&nbsp;&nbsp; English · A2</sub></p>
 
 <br/><br/>
 
