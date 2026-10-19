@@ -121,7 +121,7 @@ Since then I keep learning on my own and today I focus on scalable web platforms
 <tr>
 <td width="50%" valign="top">
 
-### 💬 &nbsp;[Chatterly Renewed](https://github.com/Jondals/ChatterlyRenewed) &nbsp;<sub>[`LIVE ↗`](https://chatterlyrenewed.duckdns.org)</sub>
+### 💬 &nbsp;[Chatterly Renewed](https://github.com/Jondals/Chatterly-Renewed) &nbsp;<sub>[`LIVE ↗`](https://chatterlyrenewed.duckdns.org)</sub>
 Self-hosted, end-to-end encrypted chat: instant messaging, groups, **WebRTC calls**, tournaments and a desktop app with Electron.
 
 <img src="https://img.shields.io/badge/Angular-1a1b27?style=flat-square&logo=angular&logoColor=dd0031" /> <img src="https://img.shields.io/badge/Fastify-1a1b27?style=flat-square&logo=fastify&logoColor=white" /> <img src="https://img.shields.io/badge/WebRTC-1a1b27?style=flat-square&logo=webrtc&logoColor=white" /> <img src="https://img.shields.io/badge/Electron-1a1b27?style=flat-square&logo=electron&logoColor=47848f" /> <img src="https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker&logoColor=2496ed" />
